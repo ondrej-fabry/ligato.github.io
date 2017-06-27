@@ -6,3 +6,7 @@ title: Go Base Code and Samples
 description: |
 ---
   Sample code to get started on Go microservices ready to run on docker containers on Kubernetes Code ready for integration with common cloud native infrastructure like kafka, cassandra, etcd, redis, ...
+
+
+
+[ Read More ](http://www.google.com){:.btn.btn-istio .btn.read-more-btn}
