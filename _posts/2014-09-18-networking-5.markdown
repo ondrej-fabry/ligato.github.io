@@ -1,6 +1,6 @@
 ---
 layout: default
-img: CN2.png
+img: net_new.png
 category: Services
 title: Networking
 description: |

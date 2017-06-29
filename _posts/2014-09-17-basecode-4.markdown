@@ -1,11 +1,11 @@
 ---
 layout: default
-img: CN1.png
+img: code_new.png
 category: Services
 title: Go Base Code and Samples
 description: |
 ---
-  Sample code to get started on Go microservices ready to run on docker containers on Kubernetes Code ready for integration with common cloud native infrastructure like kafka, cassandra, etcd, redis, ...
+  Sample code to get started on Go microservices which are ready to run as Docker containers on Kubernetes. The code is ready for integration with common cloud native server packages like Kafka, Cassandra, Etcd, Redis, …
 
 
 
