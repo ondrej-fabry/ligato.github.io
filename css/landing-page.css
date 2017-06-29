@@ -31,8 +31,8 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/ligatobackground.png) no-repeat center center;
-    background-size: 99%;
+    background: url(../img/ligatobackground_new.png) no-repeat center center;
+    background-size: 100% 90%;
 }
 
 .intro-message {
@@ -44,7 +44,7 @@ h6 {
 
 .intro-message > h1 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    /*text-shadow: 2px 2px 3px rgba(0,0,0,0.6); */
     font-size: 5em;
 }
 
@@ -55,7 +55,7 @@ h6 {
 }
 
 .intro-message > h3 {
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    /* text-shadow: 2px 2px 3px rgba(0,0,0,0.6); */
 }
 
 @media(max-width:767px) {
