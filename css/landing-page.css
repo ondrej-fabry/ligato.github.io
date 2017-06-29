@@ -167,7 +167,7 @@ p.copyright {
 }
 
 .btn.btn-istio, .btn-flat.btn-istio {
-    background-color: #286AC7;
+    background-color: #0095ff;
     color: #fff;
     font-weight: 300;
     letter-spacing: 1px;
@@ -175,7 +175,7 @@ p.copyright {
 }
 
 .btn.read-more-btn{
-background: blue;
+background: rgba(0, 149, 255, 0.67);
 border-radius: 10px;
 color: white;
 }
@@ -186,3 +186,22 @@ color: white;
   color: #fff;
 }
 
+
+
+.headernew {
+ font-size: 18px;
+ font-weight: 600;
+ background-color: transparent;
+ /*text-decoration: underline;*/
+}
+
+.custom-down-arrow {
+color:#eee;
+font-size: 26px;
+}
+
+.logo-header {
+background: transparent;
+width: inherit;
+margin-top: -13px;
+}
