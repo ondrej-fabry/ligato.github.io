@@ -32,13 +32,25 @@ h6 {
     text-align: center;
     color: #f8f8f8;
     background: url(../img/ligatobackground_new.png) no-repeat center center;
-    background-size: 100% 90%;
+    background-size: 99% 95%;
 }
+
+.intro-header-comm {
+    padding-top: 100px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 150px;
+    text-align: center;
+    color: #f8f8f8;
+     background: url(../img/community_head.png) no-repeat center center;
+    background-size: 99% 90%;
+    margin-top: 2%;
+    height: 400px;
+}
+
 
 .intro-message {
     position: relative;
     padding-top: 20%;
-    padding-bottom: 20%;
+    padding-bottom: 15%;
     margin-left: -650px;
 }
 
@@ -210,3 +222,121 @@ margin-top: -13px;
 .alignment-post-image {
     margin-top: 20px;
 }
+
+
+
+.community td {
+    line-height: 1.15em;
+    vertical-align: middle;
+}
+
+.community table, .community th, .community td {
+    border-color: #f8f8f8;
+}
+
+
+table, th, td {
+    border: 1px solid #849396;
+    padding: 6px;
+}
+
+
+.markdown {
+    padding-bottom: 60px;
+}
+
+.nofloat {
+    float: none;
+}
+
+
+.community td.logo {
+    width: 65px;
+}
+
+
+.markdown img {
+    width: 100%;
+}
+
+
+.markdown h1 {
+    color: #286AC7;
+}
+
+
+.commcolumnzone {
+	padding:20px 0px 16px 55px;
+}
+
+
+.commcolumn1 {
+	width:48%;
+	float:left;
+	margin:0px 0px 10px 0px;
+}
+
+.commcolumn1  h5 {
+color: #286AC7;
+font:24px Myriad Pro, Arial, Helvetica, sans-serif;
+	font-weight:800;
+	padding:0px 0px 5px 0px;
+	margin:0px 0px 10px 25px;
+}
+
+
+.commcolumn2 {
+	width:48%;
+	float:right;
+	margin:0px -50px 10px 0px;
+}
+
+.commcolumn2  h5 {
+color: #286AC7;
+font:24px Myriad Pro, Arial, Helvetica, sans-serif;
+	font-weight:800;
+	padding:0px 0px 5px 0px;
+	margin:0px 0px 10px 85px;
+}
+
+
+.commcolumn1 p {
+font:22px Myriad Pro, Arial, Helvetica, sans-serif;
+        font-weight:700;
+        padding:0px 0px 5px 0px;
+        margin:0px 0px 10px 0px;
+}
+
+
+.commcolumn2 p {
+font:22px Myriad Pro, Arial, Helvetica, sans-serif;
+        font-weight:700;
+        padding:0px 0px 5px 0px;
+        margin:0px 0px 10px 10px;
+}
+
+
+
+
+.clear{
+	clear:both;
+	margin:0px;
+	padding:0px;
+}
+
+.abouticon {
+	float:left;
+	margin:0px 20px 0px 85px;
+	width: 115px;
+        height : 115px;
+}
+
+
+
+.abouticonleft {
+        float:center;
+        margin:0px 20px 0px 95px;
+        width: 115px;
+        height : 115px;
+}
+
