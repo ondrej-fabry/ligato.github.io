@@ -30,6 +30,29 @@ kramdown:
 
 baseurl:
 
+
+collections:
+  docs:
+    output: true
+
+
+output: web
+# this property is useful for conditional filtering of content that is separate from the PDF.
+
+topnav_title: Cloud Native Open Source
+# this appears on the top navigation bar next to the home button
+
+site_title: Cloud Native Open Source
+# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
+
+
+sidebars:
+- mydoc_sidebar
+- home_sidebar
+- mydoc_net
+
+
+
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
