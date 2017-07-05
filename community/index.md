@@ -37,7 +37,7 @@ type: markdown
         </div>
 	<div class="commcolumn2">
         <div>
-         <p> Ligato <a href="https://github.com/ligato/ligato.github.io">repo’s</a> with readme documentation are on GitHub</p>
+         <p> Ligato <a href="https://github.com/ligato">repo’s</a> with readme documentation are on GitHub</p>
         </div>
         </div>
             <div class="clear"></div>
