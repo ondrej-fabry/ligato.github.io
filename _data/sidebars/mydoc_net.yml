@@ -1,0 +1,48 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Cloud Native
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
+
+  - title: Container Networking
+    output: web, pdf
+    folderitems:
+    - title: Networking Overview
+      url: /mydoc_container_net_overview.html
+      output: web, pdf
+
+    - title: Contiv Networking
+      url: /mydoc_container_net_contiv.html
+      output: web, pdf
+
+    - title: Flannel Networking
+      url: /mydoc_container_net_flannel.html
+      output: web, pdf
+
+    - title: Weave Networking
+      url: /mydoc_container_net_weave.html
+      output: web, pdf
+
+    - title: Calico Networking
+      url: /mydoc_container_net_calico.html
+      output: web, pdf
+
+    - title: VPP Networking
+      url: /mydoc_container_net_vpp.html
+      output: web, pdf
+

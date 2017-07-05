@@ -1,0 +1,156 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Cloud Native
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Community Charter
+      url: /mydoc_standardization.html
+      output: web, pdf
+      type: homepage
+
+    - title: Useful Links
+      url: /mydoc_links.html
+      output: web, pdf
+      
+      
+    - title: Tooling Usage Summary Spreadsheet 
+      url: /mydoc_spreadsheet.html
+      output: web, pdf
+
+  - title: DevOps Catalog
+    output: web, pdf
+    folderitems:
+
+    - title: Tricorder DevOps
+      url: /mydoc_devops10.html
+      output: web, pdf
+
+    - title: Git Branching Strategy and Code Review Policies
+      url: /mydoc_devops_support_doc.html
+      output: web, pdf
+
+    - title: Artifactory Access
+      url: /mydoc_devops_artifactory.html
+      output: web, pdf
+
+
+
+  - title: Production CD
+    output: web, pdf
+
+    folderitems:
+    - title: Spinnaker Overview
+      url: /mydoc_spinnaker_overview.html
+      output: web, pdf
+
+    - title: Deployer Mockup
+      url: /mydoc_mockup.html
+      output: web, pdf
+
+    - title: Tricorder Jobs
+      url: /mydoc_jobs.html
+      output: web, pdf
+
+    - title: Spinnaker Development Getting Started
+      url: /mydoc_spinnaker_dev.html
+      output: web, pdf
+
+    - title: Spinnaker Deployment Instructions
+      url: /mydoc_spinnaker_deployment.html
+      output: web, pdf
+
+    - title: Spinnaker How To
+      url: /mydoc_spinnaker_howto.html
+      output: web, pdf
+
+
+
+  - title: Container Networking
+    output: web, pdf
+    folderitems:
+    - title: Networking Overview
+      url: /mydoc_container_net_overview.html
+      output: web, pdf
+
+    - title: Contiv Networking
+      url: /mydoc_container_net_contiv.html
+      output: web, pdf
+
+    - title: Flannel Networking
+      url: /mydoc_container_net_flannel.html
+      output: web, pdf
+
+    - title: Weave Networking
+      url: /mydoc_container_net_weave.html
+      output: web, pdf
+
+    - title: Calico Networking
+      url: /mydoc_container_net_calico.html
+      output: web, pdf
+
+    - title: VPP Networking
+      url: /mydoc_container_net_vpp.html
+      output: web, pdf
+
+
+  - title: OpenSource Contribution
+    output: web, pdf
+
+    folderitems:
+    - title: How to update code
+      url: /mydoc_update_code.html
+      output: web, pdf
+
+    - title: How to update documentation
+      url: /mydoc_update_doc.html
+      output: web, pdf
+ 
+  - title: Lessons Learned/Research
+    output: web, pdf
+
+    folderitems:
+    - title: Serverless
+      url: /mydoc_serverless.html
+      output: web, pdf
+      type: homepage
+      
+    - title: Zing 
+      url: /mydoc_lessons_zing.html
+      output: web, pdf
+      type: homepage
+
+    - title: Kubernetes Known Issues
+      url: /mydoc_k8s_known_issues.html
+      output: web, pdf
+      type: homepage
+
+  - title: Meetups
+    output: web, pdf
+
+    folderitems:
+    - title: Meetup - 2017.05-Atlanta 
+      url: /mydoc_meetup_atlanta.html
+      output: web, pdf
+      type: homepage
+
+
