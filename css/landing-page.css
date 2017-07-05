@@ -47,6 +47,20 @@ h6 {
 }
 
 
+
+.intro-header-net {
+    padding-top: 100px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 150px;
+    text-align: center;
+    color: #f8f8f8;
+     background: url(../img/network-back.png) no-repeat center center;
+    background-size: 99% 90%;
+    margin-top: 2%;
+    height: 400px;
+}
+
+
+
 .intro-message {
     position: relative;
     padding-top: 20%;
@@ -264,6 +278,14 @@ table, th, td {
     color: #286AC7;
 }
 
+.markdown .docimage{
+margin-bottom: 2%;
+width:auto;
+height: auto;
+max-width: 800px;
+max-height:800px;
+}
+
 
 .commcolumnzone {
 	padding:20px 0px 16px 55px;
@@ -340,3 +362,9 @@ font:22px Myriad Pro, Arial, Helvetica, sans-serif;
         height : 115px;
 }
 
+
+
+@media (min-width: 1440px)
+.container {
+    /* width: 1410px; */
+}
