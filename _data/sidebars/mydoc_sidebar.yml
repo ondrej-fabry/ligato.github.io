@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: Cloud Native
+  product: 
   version:
   folders:
 
@@ -18,9 +18,8 @@ entries:
       url: /tocpage
       output: pdf
       type: frontmatter
-      
-      
-  - title: Container Networking
+
+  - title: 
     output: web, pdf
     folderitems:
     - title: Networking Overview
@@ -46,14 +45,3 @@ entries:
     - title: VPP Networking
       url: /mydoc_container_net_vpp.html
       output: web, pdf
-
-  - title: Meetups
-    output: web, pdf
-
-    folderitems:
-    - title: Meetup - 2017.05-Atlanta 
-      url: /mydoc_meetup_atlanta.html
-      output: web, pdf
-      type: homepage
-
-
