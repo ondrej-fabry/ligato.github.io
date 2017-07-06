@@ -104,3 +104,58 @@ div.toc {
     position: relative;
 }
 
+
+.net h2 {
+    color: #2E2E2E;
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: 50px 0 8px;
+}
+
+.net h3 {
+    color: #2E2E2E;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: 50px 0 8px;
+}
+
+
+.net p{
+    font-size: 14px;
+    margin-top: 20px;
+line-height: 22px;
+ font-weight: normal;
+font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+.net ul li{
+    margin: 10px 0px;
+     font-weight:normal;
+}
+
+.nofloat {
+    float: none;
+}
+
+body ui li{
+font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.post-title-main {
+    font-size: 2.5rem;
+    color: #286AC7;
+    margin: 30px 0;
+}
+
+
+code {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #444;
+    background-color: #f0f0f0;
+    white-space: nowrap;
+    border-radius: 4px;
+}
