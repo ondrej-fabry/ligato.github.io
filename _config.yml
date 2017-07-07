@@ -50,6 +50,7 @@ sidebars:
 - mydoc_sidebar
 - home_sidebar
 - mydoc_net
+- docpages_sidebar
 
 
 
@@ -60,4 +61,26 @@ sidebars:
 social:
   - title: github
     url: https://github.com/IronSummitMedia/startbootstrap
-  
+ 
+headertitles:
+
+ - title: About
+   url: about
+   type: scroll
+
+ - title: Services
+   url: services
+   type: scroll
+
+ - title: Networking
+   url: networking/
+   type: link
+
+ - title: Docs 
+   url: pages/
+   type: link
+
+ - title: Community
+   url: community/
+   type: link
+ 
