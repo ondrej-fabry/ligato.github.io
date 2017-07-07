@@ -14,18 +14,17 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">  
-            	<li>
-                    <a class="page-scroll headernew" href="#about">About</a>
-                </li>            
-                <li>
-                    <a class="page-scroll headernew" href="#services">Services</a>
-                </li>
-		<li>
-                    <a class="headernew" href="{{home}}/networking/">Networking</a>
-                </li>
-		<li>
-                    <a class="page-scroll headernew" href="/community">Community</a>
-                </li>
+		{% for headertitles in site.headertitles %}
+		 <li>
+			{% if headertitles.type == 'scroll' %}
+			<a href="#{{headertitles.url}}"  class="page-scroll headernew"> {{headertitles.title}}</a>	
+			{% else %}
+			<a href="{{home}}/{{headertitles.url}}"  class="headernew"> {{headertitles.title}}</a>
+			{% endif %}
+			
+		</li>
+		{% endfor %}
+
             </ul>
         </div>
         <!-- /.navbar-collapse -->
