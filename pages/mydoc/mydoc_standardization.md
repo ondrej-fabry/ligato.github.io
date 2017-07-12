@@ -6,6 +6,7 @@ sidebar: docpages_sidebar
 permalink: mydoc_standardization.html
 folder: mydoc
 layout: pages
+foldertitle: Ligato Docs
 ---
 The Cisco Cloud Native standardization effort aims to advance the state-of-the-art for 
 building cloud native applications and services, allowing developers to take full advantage of existing and to-be-developed open source technologies. Cloud native refers to applications or services that are container-packaged, dynamically scheduled and micro services-oriented.

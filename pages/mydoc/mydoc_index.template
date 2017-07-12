@@ -6,6 +6,7 @@ sidebar: docpages_sidebar
 permalink: yourfilename.html
 folder: mydoc
 layout: pages
+foldertitle: Ligato Docs
 ---
 
 */

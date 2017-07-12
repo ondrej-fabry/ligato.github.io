@@ -3,6 +3,7 @@ overview: Information on the various ways to participate and interact with the L
 layout: pages
 type: markdown
 sidebar: docpages_sidebar
+foldertitle: Ligato Docs
 ---
 
 
