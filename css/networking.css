@@ -136,6 +136,10 @@ font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
      font-weight:normal;
 }
 
+.net li.active {
+    font-weight: bold;
+}
+
 .nofloat {
     float: none;
 }
