@@ -7,6 +7,7 @@ sidebar: mydoc_sidebar
 permalink: mydoc_container_net_overview.html
 folder: mydoc
 layout: network
+foldertitle: Networking
 ---
 
 

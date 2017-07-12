@@ -4,6 +4,7 @@ overview: Information on the various ways to participate and interact with the L
 layout: network 
 type: markdown
 sidebar: mydoc_sidebar
+foldertitle: Networking
 ---
 
 {% include image.html file="Networking-Overview.png" %}

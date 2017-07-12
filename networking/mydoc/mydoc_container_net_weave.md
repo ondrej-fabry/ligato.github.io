@@ -7,6 +7,7 @@ sidebar: mydoc_sidebar
 permalink: mydoc_container_net_weave.html
 folder: mydoc
 layout: network
+foldertitle: Networking
 ---
 
 {% include image.html file="Networking-Weave.png" %}
