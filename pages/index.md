@@ -7,7 +7,6 @@ foldertitle: Ligato Docs
 ---
 
 
-
 # Welcome page title
 
 
