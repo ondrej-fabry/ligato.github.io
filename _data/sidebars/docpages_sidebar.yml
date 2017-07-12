@@ -28,12 +28,3 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Useful Links
-      url: /mydoc_links.html
-      output: web, pdf
-      
-      
-    - title: Tooling Usage Summary Spreadsheet 
-      url: /mydoc_spreadsheet.html
-      output: web, pdf
-
