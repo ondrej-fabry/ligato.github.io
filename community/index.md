@@ -3,6 +3,7 @@ title: Community
 overview: Information on the various ways to participate and interact with the Ligato community.
 layout: community 
 type: markdown
+foldertitle: Ligato community is here to help!
 ---
 
 
