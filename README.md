@@ -53,19 +53,14 @@ Example:
 
 ```bash
 headertitles:
-```
-```txt
  - title: New title
-```
-```
    url:  Path to this title   example :   networking/
    type: link
-```
 ```
 
 Note:  Keep the value for type as link only. It can have values like link or scroll. For new header you have to create a new folder with same name as title and follow the markdown files template and structure.
 
-How to add/edit the left navigation Tree in Docs page
+## How to add/edit the left navigation Tree in Docs page
 
 To add to the left navigation tree you simply have to add new values in “docpages_sidebar.yml” file. 
 
@@ -80,7 +75,6 @@ Left tree:
 ## Adding new Branch:
 
 ```bash
-```txt
   - title: Your Branch One
     output: web, pdf
     folderitems:
@@ -90,13 +84,11 @@ Left tree:
       output: web, pdf
       type: homepage
 ```
-```
 
 
 To above content add in this way:
 
 ```bash
-```txt
    -title:  New Branch You Added
     output:     web
     folderitems:
@@ -105,13 +97,11 @@ To above content add in this way:
       url: /FilePath.html
       output: web
 ```
-```
 
 You can add sub branch like this:
 
 
 ```bash
-```txt
    -title:  New Branch You Added
     output:     web
     folderitems:
@@ -122,7 +112,6 @@ You can add sub branch like this:
     - title:  New Sub Branch you can add
       url: /NewFilePath.html
       output: web
-```
 ```
 
 
