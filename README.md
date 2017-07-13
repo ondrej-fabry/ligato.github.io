@@ -142,7 +142,6 @@ For  title like Networking:
 For image title, you have to add additional property in the header i.e. foldertitle
 
 ```bash
-```txt
 ---
 overview: Information on the various ways to participate and interact with the Ligato community.
 layout: pages
@@ -150,7 +149,6 @@ type: markdown
 sidebar: docpages_sidebar
 foldertitle: Ligato Docs
 ---
-```
 ```
 
 Note: All the content in .md files should be written as same we did in our tricorder docs page.
