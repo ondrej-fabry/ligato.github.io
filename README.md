@@ -52,16 +52,16 @@ You can add/edit in section   headertitles:
 Example:
 
 ```bash
-
 headertitles:
-
+```
 ```txt
  - title: New title
+```
 ```
    url:  Path to this title   example :   networking/
    type: link
 ```
-
+```
 
 Note:  Keep the value for type as link only. It can have values like link or scroll. For new header you have to create a new folder with same name as title and follow the markdown files template and structure.
 
