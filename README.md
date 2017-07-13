@@ -40,7 +40,7 @@ The contents of this repository are licensed under the [Apache
 Header title are configurable, and you can edit/add title in `_config.yml.`
 
 
-![screenshot]({{home}}/img/read1.png)
+![screenshot](https://github.com/ligato/ligato.github.io/blob/master/img/read1.png)
 
 
 ## How to edit/add new title? 
@@ -69,7 +69,7 @@ https://github.com/ligato/ligato.github.io/blob/master/_data/sidebars/docpages_s
 Left tree:
 
 
-![screenshot]({{home}}/img/read2.png)
+![screenshot](https://github.com/ligato/ligato.github.io/blob/master/img/read2.png)
 
 
 ## Adding new Branch:
@@ -137,7 +137,7 @@ https://github.com/ligato/ligato.github.io/blob/master/_data/sidebars/mydoc_side
 For  title like Networking:
 
 
-![screenshot]({{home}}/img/read3.png)
+![screenshot](https://github.com/ligato/ligato.github.io/blob/master/img/read3.png)
  
 For image title, you have to add additional property in the header i.e. foldertitle
 
