@@ -9,4 +9,4 @@ description: |
 
 
 
-[ Read More ](http://www.google.com){:.btn.btn-istio .btn.read-more-btn}
+[ Read More ]({{home}}/services){:.btn.btn-istio .btn.read-more-btn}
