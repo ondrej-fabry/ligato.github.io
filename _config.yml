@@ -51,6 +51,7 @@ sidebars:
 - home_sidebar
 - mydoc_net
 - docpages_sidebar
+- servicepages_sidebar
 
 
 
@@ -73,7 +74,7 @@ headertitles:
  - title: Services
    url: services
    type: scroll
-   nonscrolllink: '#services' 
+   nonscrolllink: services/ 
 
  - title: Networking
    url: networking/
