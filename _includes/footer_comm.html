@@ -6,8 +6,8 @@
                 <ul class="list-inline">
 		{% for headertitles in site.headertitles %}
                  <li>
-                        {% if headertitles.type == 'scroll' %}
-                        <a href="#{{headertitles.url}}"> {{headertitles.title}}</a>
+                        {% if headertitles.type == 'scroll' and page.id != 'index' %}
+                        <a href="{{home}}/{{headertitles.nonscrolllink}}"> {{headertitles.title}}</a>
                         {% else %}
                         <a href="{{home}}/{{headertitles.url}}"> {{headertitles.title}}</a>
                         {% endif %}

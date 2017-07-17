@@ -16,10 +16,10 @@
             <ul class="nav navbar-nav navbar-right">  
 		{% for headertitles in site.headertitles %}
 		 <li>
-			{% if headertitles.type == 'scroll' %}
+			{% if headertitles.type == 'scroll'%}
 			<a href="#{{headertitles.url}}"  class="page-scroll headernew"> {{headertitles.title}}</a>	
 			{% else %}
-			<a href="{{home}}/{{headertitles.url}}"  class="headernew"> {{headertitles.title}}</a>
+				<a href="{{home}}/{{headertitles.url}}"  class="headernew"> {{headertitles.title}}</a>
 			{% endif %}
 			
 		</li>
