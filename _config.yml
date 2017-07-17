@@ -61,16 +61,19 @@ sidebars:
 social:
   - title: github
     url: https://github.com/ligato
+
  
 headertitles:
 
  - title: About
    url: about
    type: scroll
+   nonscrolllink: '#about' 
 
  - title: Services
    url: services
    type: scroll
+   nonscrolllink: '#services' 
 
  - title: Networking
    url: networking/
