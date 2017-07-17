@@ -1,0 +1,17 @@
+/* Before use, remove this line and uncomment the next line
+// ---
+title: Your Template
+keywords:
+sidebar: servicepages_sidebar
+permalink: yourfilename.html
+folder: mydoc
+layout: pages
+foldertitle: Ligato Services
+---
+
+*/
+
+
+Your Content here 
+
+{% include links.html %}
