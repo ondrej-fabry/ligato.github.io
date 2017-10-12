@@ -9,4 +9,4 @@ description: |
 
 
 
-[ Go to Git]({{home}}/services){:.btn.btn-istio .btn.read-more-btn}
+[ Go to Git](http:///github.com/ligato){:.btn.btn-istio .btn.read-more-btn}
