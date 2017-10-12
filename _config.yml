@@ -71,20 +71,14 @@ headertitles:
    type: scroll
    nonscrolllink: '#about' 
 
- - title: Services
+ - title: CN-Infra
    url: services
    type: scroll
    nonscrolllink: services/ 
 
- - title: Networking
-   url: networking/
-   type: link
+ - title: VPP-agent
+   url: services
+   type: scroll
+   nonscrolllink: services/
 
- - title: Docs 
-   url: pages/
-   type: link
 
- - title: Community
-   url: community/
-   type: link
- 

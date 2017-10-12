@@ -2,11 +2,11 @@
 layout: default
 img: code_new.png
 category: Services
-title: Go Base Code and Samples
+title: Cloud Native Infrastructure
 description: |
 ---
-  Sample code to get started on Go microservices which are ready to run as Docker containers on Kubernetes. The code is ready for integration with common cloud native server packages like Kafka, Cassandra, Etcd, Redis, …
+  CN-Infra (cloud-native infrastructure) is a Golang platform for building cloud-native microservices. Although it was originally intended for development/implementation of custom management/control plane agents for cloud-native Virtual Network Functions (VNFs), it can be used to develop any microservice
 
 
 
-[ Read More ]({{home}}/services){:.btn.btn-istio .btn.read-more-btn}
+[ Go to Git]({{home}}/services){:.btn.btn-istio .btn.read-more-btn}
