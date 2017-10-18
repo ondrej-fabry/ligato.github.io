@@ -81,12 +81,12 @@ headertitles:
    type: scroll
    nonscrolllink: services/
    
- - title: sfc-controller
+ - title: SFC-controller
    url: services
    type: scroll
    nonscrolllink: services/
    
- - title: bgp-agent
+ - title: BGP-agent
    url: services
    type: scroll
    nonscrolllink: services/
