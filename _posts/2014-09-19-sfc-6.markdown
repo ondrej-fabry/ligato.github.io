@@ -5,10 +5,6 @@ category: Services
 title: SFC Controller
 description: |
 ---
-Please note that the content of this repository is currently WORK IN PROGRESS.
-
-The SFC Controller is a Golang implementation of an orchestration module for providing data-plane connectivity for cloud native containers. The containers may be Ligato VPP-agent enabled containers which in turn use VPP based cloud-native Virtual Network Functions (VNFs) or the containers may be application containers communicating via veth interfaces. The VPP Agent is built on top of the CN-Infra platform for developing cloud-native Virtual Network Functions (VNFs).
-
-The SFC Controller supports a wide variety of topologies. The controller can effect connectivity for containers on-host, inter-host and host to external router.
+WORK IN PROGRESS. The SFC Controller is a Golang implementation of an orchestration module for providing data-plane connectivity for cloud native containers. The containers may be Ligato VPP-agent enabled containers which in turn use VPP based cloud-native Virtual Network Functions (VNFs) or the containers may be application containers communicating via veth interfaces. 
 
 [ Go to Git ](http://github.com/ligato/sfc-controller){:.btn.btn-istio .btn.read-more-btn}
