@@ -81,7 +81,6 @@ headertitles:
    type: scroll
    nonscrolllink: services/
    
-  
  - title: sfc-controller
    url: services
    type: scroll
