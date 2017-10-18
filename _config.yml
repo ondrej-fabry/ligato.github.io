@@ -80,5 +80,16 @@ headertitles:
    url: services
    type: scroll
    nonscrolllink: services/
+   
+  
+ - title: sfc-controller
+   url: services
+   type: scroll
+   nonscrolllink: services/
+   
+ - title: bgp-agent
+   url: services
+   type: scroll
+   nonscrolllink: services/
 
 
