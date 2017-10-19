@@ -10,5 +10,3 @@ BGP information from different sources(different BGP frameworks, eg: GoBGP, ExaB
 multiple extensions (different AFI/SAFIS ex: IPV4 / Unicast, IPV6 / Unicast).
 
 [ Go to Git](http://github.com/ligato/bgp-agent){:.btn.btn-istio .btn.read-more-btn}
-
-.
