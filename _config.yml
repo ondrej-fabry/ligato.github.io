@@ -2,15 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://github/ligato.io
+url: https://ligato.io/
 title: Ligato
 email: ligato@cisco.com
 author: Ligato team
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2017 Ligato community. All Rights Reserved.'
+description: > 
+  Ligato is an open source project that provides a platform and code samples for development of cloud native VNFs.
+  It includes a VNF agent for VPP ( FD.io ) and a Service Function Chain (SFC) Controller for stitching virtual and physical networking. 
+copyright: 'Copyright &copy; 2018 Ligato community. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
