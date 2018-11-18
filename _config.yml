@@ -5,10 +5,10 @@
 url: https://ligato.io/
 title: Ligato
 email: ligato@cisco.com
-author: Ligato team
+author: Ligato Team
 description: > 
   Ligato is an open source project that provides a platform and code samples for development of cloud native VNFs.
-  It includes a VNF agent for VPP ( FD.io ) and a Service Function Chain (SFC) Controller for stitching virtual and physical networking. 
+  It includes a VNF agent for VPP (FD.io) and a Service Function Chain (SFC) Controller for stitching virtual and physical networking. 
 copyright: 'Copyright &copy; 2018 Ligato community. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
@@ -19,21 +19,17 @@ credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme cr
 # Build settings
 markdown: kramdown
 
-
 kramdown:
   input: GFM
   hard_wrap: false
   syntax_highlighter_opts:
     disable : true
 
-
 baseurl:
-
 
 collections:
   docs:
     output: true
-
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -44,7 +40,6 @@ topnav_title: Cloud Native Open Source
 site_title: Cloud Native Open Source
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-
 sidebars:
 - mydoc_sidebar
 - home_sidebar
@@ -52,17 +47,14 @@ sidebars:
 - docpages_sidebar
 - servicepages_sidebar
 
-
-
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
 
 social:
-  - title: github
+  - title: GitHub
     url: https://github.com/ligato
 
- 
 headertitles:
 
  - title: About
@@ -71,23 +63,23 @@ headertitles:
    nonscrolllink: '#about' 
 
  - title: CN-Infra
-   url: services
+   url: cn-infra
    type: scroll
-   nonscrolllink: services/ 
+   nonscrolllink: '#cn-infra'
 
  - title: VPP-agent
-   url: services
+   url: 
    type: scroll
-   nonscrolllink: services/
+   nonscrolllink: vpp-agent/
    
  - title: SFC-controller
-   url: services
+   url: sfc-controller
    type: scroll
-   nonscrolllink: services/
+   nonscrolllink: sfc-controller/
    
  - title: BGP-agent
-   url: services
+   url: bgp-agent
    type: scroll
-   nonscrolllink: services/
+   nonscrolllink: bgp-agent/
 
 
