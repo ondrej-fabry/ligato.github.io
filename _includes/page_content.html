@@ -1,10 +1,12 @@
 <section id="services">
 <!-- Page Content -->
 {% for post in site.posts reversed %}
+  {% if post.section %}
+    <section id="{{ post.section }}">
+  {% endif %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
-
         <div class="container">
 
             <div class="row">
@@ -21,13 +23,10 @@
 
         </div>
         <!-- /.container -->
-
     </div>
     <!-- /.content-section-a -->
-    {% else %}
-
+  {% else %}
     <div class="content-section-b">
-
         <div class="container">
 
             <div class="row">
@@ -44,9 +43,11 @@
 
         </div>
         <!-- /.container -->
-
     </div>
     <!-- /.content-section-b -->
-    {% endif %}
+  {% endif %}
+  {% if post.section %}
+    </section>
+  {% endif %}
 {% endfor %}
 </section>
