@@ -2,6 +2,7 @@
 layout: default
 img: net_new.png
 category: Services
+section: vpp-agent
 title: VPP Agent
 description: |
 ---
