@@ -53,6 +53,7 @@ sidebars:
 
 social:
   - title: GitHub
+    icon: github
     url: https://github.com/ligato
 
 headertitles:
