@@ -2,6 +2,7 @@
 layout: default
 img: code_new.png
 category: Services
+section: bgp-agent
 title: BGP Agent
 description: |
 ---
@@ -9,4 +10,4 @@ The Ligato BGP Agent is a BGP information provider. It provides BGP information 
 BGP information from different sources(different BGP frameworks, eg: GoBGP, ExaBGP) and supporting 
 multiple extensions (different AFI/SAFIS ex: IPV4 / Unicast, IPV6 / Unicast).
 
-[ Go to Git](http://github.com/ligato/bgp-agent){:.btn.btn-istio .btn.read-more-btn}
+[Go to GitHib](http://github.com/ligato/bgp-agent){:.btn.btn-istio .btn.read-more-btn}
