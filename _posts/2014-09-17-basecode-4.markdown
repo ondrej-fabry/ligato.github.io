@@ -2,10 +2,11 @@
 layout: default
 img: code_new.png
 category: Services
-title: Cloud Native Infrastructure
+section: cn-infra
+title: CN Infra
 description: |
 ---
-  CN-Infra (cloud-native infrastructure) is a Golang platform for building cloud-native microservices. Although it was originally intended for development/implementation of custom management/control plane agents for cloud-native Virtual Network Functions (VNFs), it can be used to develop any microservice
+  CN Infra (Cloud-Native INFRAstructure) is a Go platform for building cloud-native microservices. Although it was originally intended for development/implementation of custom management/control plane agents for cloud-native Virtual Network Functions (VNFs), it can be used to develop any microservice
 
 
 
