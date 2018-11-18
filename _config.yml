@@ -67,17 +67,17 @@ headertitles:
    type: scroll
    nonscrolllink: '#cn-infra'
 
- - title: VPP-agent
-   url: 
+ - title: VPP Agent
+   url: vpp-agent
    type: scroll
    nonscrolllink: vpp-agent/
    
- - title: SFC-controller
+ - title: SFC Controller
    url: sfc-controller
    type: scroll
    nonscrolllink: sfc-controller/
    
- - title: BGP-agent
+ - title: BGP Agent
    url: bgp-agent
    type: scroll
    nonscrolllink: bgp-agent/
