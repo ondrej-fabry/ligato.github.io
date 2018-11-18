@@ -63,7 +63,7 @@ headertitles:
    type: scroll
    nonscrolllink: '#about' 
 
- - title: CN-Infra
+ - title: CN Infra
    url: cn-infra
    type: scroll
    nonscrolllink: '#cn-infra'
